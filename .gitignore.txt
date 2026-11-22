@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+screenshots/
+.idea/
+.vscode/
+*.db
+settings.json
+.env
